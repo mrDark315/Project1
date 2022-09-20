@@ -1,3 +1,3 @@
-# My first function # <br/>
+My first function
 
-*This function outputs firstname and lastname.*
+*This function outputs your firstname.*

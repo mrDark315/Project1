@@ -6,9 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Write("ВВедіть своє ім'я: ");
+            Console.Write("Введите свое имя: ");
             string name = Console.ReadLine();
-            Console.WriteLine($"Привіт {name}");
+            Console.WriteLine($"Привет {name}");
         }
     }
 }
